@@ -4,11 +4,13 @@
 
 Object-Relational Mapping (ORM): E-Commerce Back End
 
-The purpose of this application was to understand the acronym of CRUD which is create, read, update, and delete operations. The data seeded from the sql database needs to be parsed/extracted using routes and models to work with localhost from the server. The routes created will work leaving a code of 200 for being succesful or code 404 error indicating theres an error. CRUD shows different ways of grabing sensitive data.
+The purpose of this application was to understand the acronym of CRUD which is create, read, update, and delete operations. The data seeded from the sql database needs to be parsed/extracted using routes and models to work with localhost from the server. The routes created will work leaving a code of 200 for being succesful or code 404 error indicating theres an error. CRUD shows different ways of grabing sensitive data. I'm still working on fixing the seed error.
 
 #Mock_UP
 
-![alt My_E-Commerce_App](./assets/images/My_E-Commerce_App.jpeg)
+The image below shows how the app is working
+
+![alt My_E-Commerce_App](./assets/images/My_E-Commerce_App.gif)
 
 #Usage
 
